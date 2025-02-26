@@ -1,0 +1,68 @@
+body{
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ overflow-x: hidden;
+}
+
+.sana {
+width:1500px;
+height:150px;
+background: 
+linear-gradient(to right,aqua, aquamarine);
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 0px;
+
+}
+input{
+ width:500px;
+ height: 70px;
+ border-radius: 10px;
+}
+.honey{
+ width:1500px;
+ height:100px;
+ background-color: lightblue;
+ display: flex;
+}
+i{
+ margin-top:50px;
+ margin-left:80px;
+}
+h1{
+margin-top:30px;
+margin-left: 40px;
+}
+.container{
+ width:1500px;
+ display: flex;
+overflow-x: auto;
+ scroll-snap-type: x mandatory;
+ 
+}
+.Warangal img{
+ width:150px;
+ height:150px;
+ object-fit: contain;
+ border-radius: 10px;
+ 
+}
+.Hyderabad img{
+ 
+ width:1500px;
+ 
+}
+ .box{
+ display: flex;
+ background-color:grey;
+ width:1500px;
+}
+.sanath img {
+ height:500px;
+ width:400px;
+
+}
+
+
